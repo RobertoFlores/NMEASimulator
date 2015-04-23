@@ -1,0 +1,21 @@
+#archivo de configuracion para signorar archivos proyecto simulador de objetivos ipit
+#Archivos de personalizacion de visual studio 2010
+
+Simulator.sln.docstates.suo
+Simulator.sln.DotSettings.user
+Simulator.suo
+
+#directorio de binarios
+
+Simulator/bin/**/*
+
+
+#directorio de objetos 
+
+Simulator/obj/**/*
+
+
+#binarios de librerias.
+
+#NMEAProxyServer/x86/**/*
+#NMEAProxyServer/x64/**/*
